@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VZKYQ49B5F.com.blockcode.plutus.tappay",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
