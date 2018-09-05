@@ -5,7 +5,7 @@
             {
                 "appID": "VZKYQ49B5F.com.blockcode.plutus.tappay",
                 "paths": [
-                    "*"
+                    "/ios/com.blockcode.plutus.tappay/*"
                 ]
             }
         ]
